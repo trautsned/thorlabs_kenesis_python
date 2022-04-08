@@ -15,3 +15,7 @@ This is an example script so hack the code for your purposes.
 Make sure to change the constants section at the start of the code for the Thorlab device serial numbers and the location of the Kenesis library. Change the variable x in the while loop to measurement data aquisition. Currently it just generates random data at each point.
 ## Disclaimer: 
 While this code works it was the first time I had used Python for .net. Use it to get started but not as a template for best practices.
+## Other Versions
+vstadnytskyi used this code as a starting point and created a better version at:
+
+https://github.com/vstadnytskyi/thorlabs_motion_control
